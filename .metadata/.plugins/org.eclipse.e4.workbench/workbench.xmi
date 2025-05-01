@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_8FzmQB8gEfC1v9L_TX41TQ" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_8F0NUB8gEfC1v9L_TX41TQ" bindingContexts="_8F0NWR8gEfC1v9L_TX41TQ">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EventService.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/services/EventService.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bds02/src/main/java/com/devsuperior/bds02/services/EventService.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CityController.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/controllers/CityController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bds02/src/main/java/com/devsuperior/bds02/controllers/CityController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EventRepository.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/repositories/EventRepository.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bds02/src/main/java/com/devsuperior/bds02/repositories/EventRepository.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EventDTO.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/dto/EventDTO.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bds02/src/main/java/com/devsuperior/bds02/dto/EventDTO.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Event.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/entities/Event.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bds02/src/main/java/com/devsuperior/bds02/entities/Event.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CityService.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/services/CityService.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bds02/src/main/java/com/devsuperior/bds02/services/CityService.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CityRepository.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/repositories/CityRepository.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bds02/src/main/java/com/devsuperior/bds02/repositories/CityRepository.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EventController.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/controllers/EventController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bds02/src/main/java/com/devsuperior/bds02/controllers/EventController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EventDTO.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/dto/EventDTO.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bds02/src/main/java/com/devsuperior/bds02/dto/EventDTO.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EventService.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/services/EventService.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bds02/src/main/java/com/devsuperior/bds02/services/EventService.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CityController.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/controllers/CityController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bds02/src/main/java/com/devsuperior/bds02/controllers/CityController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EventRepository.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/repositories/EventRepository.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bds02/src/main/java/com/devsuperior/bds02/repositories/EventRepository.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Event.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/entities/Event.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bds02/src/main/java/com/devsuperior/bds02/entities/Event.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CityService.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/services/CityService.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bds02/src/main/java/com/devsuperior/bds02/services/CityService.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CityRepository.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/repositories/CityRepository.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/bds02/src/main/java/com/devsuperior/bds02/repositories/CityRepository.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_8F0NUB8gEfC1v9L_TX41TQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_8V0_Qh8gEfC1v9L_TX41TQ" label="%trimmedwindow.label.eclipseSDK" x="1461" y="113" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_8F0NUB8gEfC1v9L_TX41TQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_8V0_Qh8gEfC1v9L_TX41TQ" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -10,7 +10,7 @@
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1745288683070"/>
     <persistedState key="show_in_time" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;show_in_time/>"/>
     <tags>topLevel</tags>
-    <tags>shellMaximized</tags>
+    <tags>shellMinimized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_8V0_Qh8gEfC1v9L_TX41TQ" selectedElement="_8V1mUB8gEfC1v9L_TX41TQ" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_8V1mUB8gEfC1v9L_TX41TQ" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_8hQMIB8gEfC1v9L_TX41TQ">
         <children xsi:type="advanced:Perspective" xmi:id="_8hQMIB8gEfC1v9L_TX41TQ" elementId="org.eclipse.jdt.ui.JavaPerspective" selectedElement="_8hQMIR8gEfC1v9L_TX41TQ" label="Java" iconURI="platform:/plugin/org.eclipse.jdt.ui/$nl$/icons/full/eview16/jperspective.png">
@@ -214,12 +214,13 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_8g4YsB8gEfC1v9L_TX41TQ" elementId="org.eclipse.ui.editorss" selectedElement="_8g4YsR8gEfC1v9L_TX41TQ">
-      <children xsi:type="basic:PartStack" xmi:id="_8g4YsR8gEfC1v9L_TX41TQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_JXlx4CJBEfC3Rr26zNx9hQ">
+      <children xsi:type="basic:PartStack" xmi:id="_8g4YsR8gEfC1v9L_TX41TQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_d9b1YCYvEfCwcfkubd4xkg">
         <tags>EditorStack</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>active</tags>
+        <tags>noFocus</tags>
         <children xsi:type="basic:Part" xmi:id="_ZTwuMB8hEfC1v9L_TX41TQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CityController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CityController.java&quot; partName=&quot;CityController.java&quot; title=&quot;CityController.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/controllers/CityController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/bds02/src/main/java/com/devsuperior/bds02/controllers/CityController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1760&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CityController.java&quot; partName=&quot;CityController.java&quot; title=&quot;CityController.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/controllers/CityController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/bds02/src/main/java/com/devsuperior/bds02/controllers/CityController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;2&quot; selectionOffset=&quot;1684&quot; selectionTopPixel=&quot;90&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
@@ -247,8 +248,6 @@
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_SAfhYCJBEfC3Rr26zNx9hQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Event.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Event.java&quot; partName=&quot;Event.java&quot; title=&quot;Event.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/entities/Event.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/bds02/src/main/java/com/devsuperior/bds02/entities/Event.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
@@ -261,6 +260,14 @@
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_d9b1YCYvEfCwcfkubd4xkg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="EventController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EventController.java&quot; partName=&quot;EventController.java&quot; title=&quot;EventController.java&quot; tooltip=&quot;bds02/src/main/java/com/devsuperior/bds02/controllers/EventController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/bds02/src/main/java/com/devsuperior/bds02/controllers/EventController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;214&quot; selectionOffset=&quot;717&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
         </children>
       </children>
     </sharedElements>
@@ -421,7 +428,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8XUNAB8gEfC1v9L_TX41TQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ydAEQCSXEfCOCdF-SuS5oA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_8GuMfh8gEfC1v9L_TX41TQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_BhZr4CYqEfCwcfkubd4xkg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_8GuMfh8gEfC1v9L_TX41TQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8XU0EB8gEfC1v9L_TX41TQ" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -429,8 +436,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8XU0Eh8gEfC1v9L_TX41TQ" elementId="org.eclipse.ui.workbench.edit">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ydB5cCSXEfCOCdF-SuS5oA" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" enabled="false" command="_8GoFuR8gEfC1v9L_TX41TQ"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ydCggCSXEfCOCdF-SuS5oA" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_8GrwDR8gEfC1v9L_TX41TQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Bha6ACYqEfCwcfkubd4xkg" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" enabled="false" command="_8GoFuR8gEfC1v9L_TX41TQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_BhbhECYqEfCwcfkubd4xkg" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_8GrwDR8gEfC1v9L_TX41TQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8XU0Ex8gEfC1v9L_TX41TQ" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -454,7 +461,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8XVbIB8gEfC1v9L_TX41TQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ydEVsCSXEfCOCdF-SuS5oA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_8GtlbR8gEfC1v9L_TX41TQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_BhfLcCYqEfCwcfkubd4xkg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_8GtlbR8gEfC1v9L_TX41TQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_8XVbIR8gEfC1v9L_TX41TQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -2491,7 +2498,7 @@
   <addons xmi:id="_8F0NZR8gEfC1v9L_TX41TQ" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_8F0NZh8gEfC1v9L_TX41TQ" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_8GEsAB8gEfC1v9L_TX41TQ" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_yNZiASSXEfCOCdF-SuS5oA" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_BK-I4SYqEfCwcfkubd4xkg" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_8Ggw4B8gEfC1v9L_TX41TQ" elementId="org.eclipse.team.ui.category.team" name="Version control (Team)" description="Actions that apply when working with a version control system"/>
   <categories xmi:id="_8Ggw4R8gEfC1v9L_TX41TQ" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>
